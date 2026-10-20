@@ -1,0 +1,1 @@
+本ソフトウェアではGeospatial APIを利用しています。Project Settings内のARCore設定で、Geospatial APIが利用可能なARCore APIトークンを設定してください。なお、本リポジトリ内に含まれているARCore APIのトークンはすべて無効化済みです。
